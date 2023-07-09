@@ -1,9 +1,9 @@
 # Cashier Management System
 
-# Problem/Background
+## Problem/Background
 A supermarket wants to improve their cashier to become a self-service cashier so that customers can add, edit, & purchase their items on their own.
 
-# Requirements & Flowchart
+## Requirements & Flowchart
 The cashier system should have these features :
 - adding items with their quantity & price
 - editing entry that has been inputted
@@ -14,7 +14,9 @@ The cashier system should have these features :
 
 The flowchart of this system is defined below :
 
-# Code Explanation
+![image](https://github.com/ilham-muhammad/cashier-system/assets/105138863/5c475e22-8a6c-4c80-8121-c2ceca1ab9e2)
+
+## Code Explanation
 To use this code : 
 - Download all of the files and put in one directory
 - Run 'main.py' and choose your features
@@ -26,7 +28,7 @@ To use this code :
 
 ![image](https://github.com/ilham-muhammad/cashier-system/assets/105138863/2f2ab393-5013-4092-9a22-250c2230a7d0)
 
-# Test Case
+## Test Case
 1. Adding 2 items on purchase
 
 ![image](https://github.com/ilham-muhammad/cashier-system/assets/105138863/fdb629d2-073a-4b00-94c1-41ac860b4622)
@@ -47,7 +49,7 @@ To use this code :
 ![image](https://github.com/ilham-muhammad/cashier-system/assets/105138863/11e4258e-b03e-4b8a-a7f7-7f0d7a472d70)
 ![image](https://github.com/ilham-muhammad/cashier-system/assets/105138863/15a5b110-5c9d-4ba8-81cd-f3c55dff47bc)
 
-# Conclusions & Further Improvements
+## Conclusions & Further Improvements
 This code is just a simplified version of real cashier software, there are still many improvements that can be done such as :
 - Automatic exit during some errors
 - Operational errors when choosing feature 7. Check out during database exporting (might be a permission issue)
