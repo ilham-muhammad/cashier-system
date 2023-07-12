@@ -52,7 +52,7 @@ To use this code :
 ## Conclusions & Further Improvements
 This code is just a simplified version of real cashier software, there are still many improvements that can be done such as :
 - Automatic exit during some errors
-- Operational errors when choosing feature 7. Check out during database exporting (might be a permission issue)
+- Operational errors when choosing feature 8. Check out during database exporting (might be a permission issue)
 - Unable to edit multiple entries with the same item name
 - and so on
 But it will still be functional in a simple use case.
