@@ -70,6 +70,8 @@ class Transaction:
         item_name, updated_qty = input(
             "Replace quantity based on item name (format: <item name>, <new qty>) :\n"
         ).split(",")
+        updated_qty = int(updated_qty)
+
         index = self.item_name_list.index(item_name)
         self.quantity_list[index] = updated_qty
 
@@ -78,6 +80,8 @@ class Transaction:
         item_name, updated_price = input(
             "Replace price based on item name (format: <item name>, <new price>) :\n"
         ).split(",")
+        updated_price = int(updated_price)
+
         index = self.item_name_list.index(item_name)
         self.unit_price_list[index] = updated_price
 
